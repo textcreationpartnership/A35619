@@ -1,0 +1,219 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Case of John Hinde, goldsmith, with his creditors justly stated giving an account to the world of the occasion of his failing, his fair proposals, and the justness and honesty of his designs to all his creditors.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1685</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 24 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A35619</idno>
+            <idno type="STC">Wing C932</idno>
+            <idno type="STC">ESTC R34791</idno>
+            <idno type="EEBO-CITATION">14713460</idno>
+            <idno type="OCLC">ocm 14713460</idno>
+            <idno type="VID">102719</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A35619)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 102719)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1566:22)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Case of John Hinde, goldsmith, with his creditors justly stated giving an account to the world of the occasion of his failing, his fair proposals, and the justness and honesty of his designs to all his creditors.</title>
+               </titleStmt>
+               <extent>[2], 14 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London printed :</pubPlace>
+                  <date>1685.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Hinde, John, --  goldsmith --  Finance, Personal.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-09</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2010-09</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:102719:1"/>
+            <p>THE CASE OF <hi>JOHN HINDE</hi> Goldſmith WITH HIS CREDITORS <hi>JUSTLY STATED.</hi>
+            </p>
+            <p>Giving an Account to the World of the occaſion of his Failing, his fair Propoſals, and the Juſtneſs and Honeſty of his Deſigns to all his Creditors.</p>
+            <p>
+               <hi>LONDON,</hi> Printed in the Year 1685.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:102719:2"/>
+            <pb n="1" facs="tcp:102719:2" rendition="simple:additions"/>
+            <head>The Caſe of <hi>John Hinde</hi> with his Creditors Stated.</head>
+            <p>
+               <hi>HINDE</hi> was a Banker in <hi>Cornhill</hi> and dealt for great Summs of Money, and formerly was con<g ref="char:EOLhyphen"/>cerned in his Majeſty's Duty of <hi>Hearth-Money,</hi> in Company with Mr. <hi>George Daſhwood,</hi> Mr. <hi>A<g ref="char:EOLhyphen"/>braham Anſelme,</hi> Captain <hi>John Perry</hi> and Mr. <hi>Edward Buckley,</hi> for which there is a great Summ of Money now due to <hi>Hinde:</hi> That ſince <hi>Hinde</hi> received and paid many great Summs of Money to and for the now Managers of that Duty, upon which account he is now Indebted.</p>
+            <p>That about two or three Years ſince he became (un<g ref="char:EOLhyphen"/>happily) concerned in the New Buildings at <hi>Albemarle-Houſe, Grayes-Inn-Fields,</hi> and other places thereabouts: That being engaged, the Concern encreaſing and requiring continual Supplies of Money to prevent the whole from periſhing, he was compelled to advance above 60000 <hi>l.</hi> there.</p>
+            <p>That he being in full Credit had great Summs of Money forced upon him, and being in Trade muſt proceed till he could draw his Effects together in proſpect of paying off all before he diſcontinue it; For as the caſe with all Bankers is, if he had, or they ſhould put a ſtop to their general Re<g ref="char:EOLhyphen"/>ceiving
+<pb n="2" facs="tcp:102719:3"/>
+or Paying before they are ready to pay off all, it may procure a ſudden Call, and then they are undone though they have a good Fund at bottom to pay all.</p>
+            <p>That it was formerly his Caſe when in Co-Partnerſhip with one Mr. <hi>Kirwood</hi> who died ſome few years ſince; But then their Creditors being moderate Men, and con<g ref="char:EOLhyphen"/>ſidering that Bankers Eſtates could not be called in when they pleaſed, allowed <hi>Hinde</hi> and <hi>Kirwood</hi> time, and they paid off all Men to a Peny and had a good Eſtate left; and <hi>Hinde</hi> then withdrew his Share and gave over, and left <hi>Kirwood</hi> in the Trade ſingly, who dying, and a great Eſtate being abroad and doubtfull how the Creditors ſhould fare, they not being able to manage it, <hi>Hinde</hi> at the perſwaſion of ſome of <hi>Kirwood</hi>'s Creditors, who were his old Friends, undertook the Trade again; and to preſerve them, gene<g ref="char:EOLhyphen"/>rouſly involved himſelf, upon which he had more Money forced upon him than he knew what to doe with: And the Buildings of <hi>Albemarle-Houſe, Grayes-Inn-Fields</hi> and thoſe other places being preſented as a very profitable Deſign, he engaged in it, not ſuſpecting ſo ſudden a Call as now hath happened.</p>
+            <p>That at the latter end of <hi>July</hi> laſt, ſome of his Cre<g ref="char:EOLhyphen"/>ditours grew jealous, and made enquiries with whom he was concerned, and joyned together to call in their Mo<g ref="char:EOLhyphen"/>ney out of his hands, that he paid away all his preſent Caſh, well hoping it was their occaſions that called for it not a deſign to ruine him. But the paying ſome made others more violent; for they could not be content to receive their own, but put others upon calling in of theirs. Having before given ſecurities out of his Eſtate, ſuch as could be ſeparately diſpoſed of, to ſatisfie others which rather in<g ref="char:EOLhyphen"/>creaſed than aſſwaged the deſires of ſatisfaction in thoſe that remained unpaid, nay, ſome that had got ſecurities for half,
+<pb n="3" facs="tcp:102719:3"/>
+their Debts were fiercer for the remainder than thoſe that had received nothing. And in the beginning of <hi>Septem<g ref="char:EOLhyphen"/>ber</hi> laſt, becauſe he would not privately ſecure them without the privity of forty more that were then de<g ref="char:EOLhyphen"/>manding their Debts alſo, procured an Extent for 10000 <hi>l.</hi> to be ſued out, and ſeized <hi>Hinde</hi> and his Goods for it when there was but 420 <hi>l.</hi> due, and that ſecured other<g ref="char:EOLhyphen"/>wiſe too.</p>
+            <p>Upon this <hi>Toplady, Hind</hi>'s Partner flies: But <hi>Hinde</hi> deſigning to pay them to the utmoſt ſtood his ground, and ſent for the Officer to know by whoſe direction this was done, and ſo the Officer ſeized <hi>Hinde,</hi> and ſo <hi>Hinde</hi> became a Priſoner.</p>
+            <p>The Caſe being thus, and it being in vain to hope to ſupport his Credit, and pay his Creditours preſently he ſent for them and acquainted them with his condition, adviſing with the chiefeſt of them in what manner they could manage the Eſtate for their own ſatisfaction, moſt of them commiſerated his Condition, and deſired him to deliver his Eſtate, and they would allow him 5000 <hi>l.</hi> nay, ſome ſaid 10000 <hi>l.</hi> thereupon he drew up a Propo<g ref="char:EOLhyphen"/>ſal to give them all upon oath, reſerving 5000 <hi>l.</hi> to himſelf and Partner, and referred himſelf to them to put it into writing, deſiring nothing but his Liberty and a mean lively-hood.</p>
+            <p>Others of the Creditors being deſirous to be at a cer<g ref="char:EOLhyphen"/>tainty, and to know if the Eſtate would make them any conſiderable ſatisfaction, ordered him to propoſe what the Eſtate would amount to. To comply with whom, <hi>Hinde</hi> to juſtifie his Integrity makes another Propoſal to pay the Creditors their whole Debts in Lands, Houſes and Goods as they coſt, and if that fall ſhort, to make it up in
+<pb n="4" facs="tcp:102719:4"/>
+Debts juſtly due to him, and ſummons all his Creditors together, and makes theſe two Propoſals. The Credi<g ref="char:EOLhyphen"/>tors then met, adhere to the firſt Propoſal, and ſome of them come to <hi>Hinde</hi> and tell him they were agreed and demand the Books, <hi>Hinde</hi> profers his Books if they would ſign the Agreement. But inſtead of that they pre<g ref="char:EOLhyphen"/>ſent him with a Draught of an Agreement quite contrary, and which in effect obliged <hi>Hinde</hi> to deliver and aſſign all his Eſtate: But he never to be free.</p>
+            <p>
+               <hi>Hinde</hi> deſires to adviſe with Councel, and profers to ſubmit to a reaſonable Deed. But they fall in Paſſion and ſwear to hang him, and in order thereunto, ſixteen of the Creditors Petition the Honorable the Houſe of Com<g ref="char:EOLhyphen"/>mons to make ſuch a Law againſt him, if he deliver not up his Books to them upon many untrue allegations therein, and Print a Paper intituled the Caſe of the Cre<g ref="char:EOLhyphen"/>ditors of <hi>John Hinde</hi> and <hi>John Toplady.</hi>
+            </p>
+            <p>Whilſt this is in Tranſaction, the Managers of the King's Revenue of Hearth-money, extended all or moſt part of <hi>Hind</hi>'s Eſtate.</p>
+            <div type="part">
+               <head>The Heads of the Inſtrument propoſed by <hi>Hinde</hi> to his Cre<g ref="char:EOLhyphen"/>ditors are as followeth. <hi>(viz.)</hi>
+               </head>
+               <p>That he will diſcover all his Eſtate both Real and Perſo<g ref="char:EOLhyphen"/>nal to his Creditors ſave 5000 <hi>l.</hi> which he prays they will allow him for the ſupport and maintenance of himſelf, Wife and Family.</p>
+               <p>That within a Week after his Creditors have Subſcribed his Inſtrument to the purpoſe aforeſaid, He will deliver up all his Books of Accompt, Bills, Bonds, Specialties and other Writings touching his Eſtate to ſix ſuch perſons, as his
+<pb n="5" facs="tcp:102719:4"/>
+Creditors ſhould appoint as Truſtees, ſuch ſix perſons to be of the chief Creditors.</p>
+               <p>That within one moneth after delivery of his Books and Writings as aforeſaid, or at any time then after; he will at the requeſt, coſts and charges of the Tru<g ref="char:EOLhyphen"/>ſtees on behalf of the Creditors, make, execute and per<g ref="char:EOLhyphen"/>form all and every ſuch Deeds, Conveyances, Aſſuran<g ref="char:EOLhyphen"/>ces and Aſſignments of his Eſtate both real and perſonal, for the enabling them to get in, receive, recover, ſell and diſpoſe of the ſame to and for the benefit of all his Creditors in Proportion to their ſeveral and reſpective Debts, As they the ſaid Truſtees ſhall from time to time require, order, and appoint, and deliver up all his Eſtate he hath in poſſeſſion, or in the hand of any Perſon in Truſt for him, except the value of 5000 <hi>l.</hi> as aforeſaid, and his Houſhold-Goods and wearing Apparel, for himſelf, Wife and Children.</p>
+               <p>That upon his diſcovery, and aſſigning and delivery of his Eſtate as aforeſaid, to the ſaid Truſtees as afore<g ref="char:EOLhyphen"/>ſaid; He ſhall make Oath before a Maſter in Chancery, that ſuch Eſtate ſo diſcovered and delivered is his whole Eſtate, within the value of 1000 <hi>l.</hi> over and above the ſaid Summ of 5000 <hi>l.</hi> for himſelf to be reſerved as a<g ref="char:EOLhyphen"/>foreſaid, and his Houſhold-Goods, and his own Wife and Childrens Wearing Apparel as aforeſaid, which ſaid Summ of 1000 <hi>l.</hi> when he diſcovers the ſame, or ſuch part thereof as he ſhall at any time hereafter find, or hear of, he ſhall forthwith diſcover and aſſign, convey and deli<g ref="char:EOLhyphen"/>ver unto the Truſtees, as the Caſe ſhall require.</p>
+               <p>And therefore the Oath of the ſaid <hi>John Hinde,</hi> ſhall be binding to all the Creditors, and be definitive, and con<g ref="char:EOLhyphen"/>cluding to them as for and touching what Eſtate the ſaid
+<pb n="6" facs="tcp:102719:5"/>
+                  <hi>John Hinde</hi> hath. But that ſuch Oath may be the more binding and penal to the ſaid <hi>John Hinde,</hi> if he falſifie the ſame, he ſhall at any time upon demand at the re<g ref="char:EOLhyphen"/>queſt, coſts and charges of the Creditors, anſwer <hi>gratis</hi> to any ſuch Bill or Bills in Chancery, or any other Court of Equity, as the ſaid Truſtees or the Survivors, or Sur<g ref="char:EOLhyphen"/>vor of them ſhall at any time hereafter prefer againſt him for the Diſcovery of what Eſtate he now hath, ſa<g ref="char:EOLhyphen"/>ving that by ſuch Bill or Bills he ſhall not be obliged to anſwer in what the ſaid Summ of 5000 <hi>l.</hi> by him ſo to be reſerved for himſelf doth conſiſt in, or in whoſe hands the ſame is in.</p>
+               <p>That <hi>Hinde</hi> ſhall imploy himſelf, and uſe his beſt en<g ref="char:EOLhyphen"/>deavours to aſſiſt the Creditors, to get in the Eſtate from time to time, as the Truſtees ſhall order and command him.</p>
+               <p>That upon his diſcovery and delivering up his Eſtate to the ſaid Truſtees as aforeſaid, the Creditors ſhall de<g ref="char:EOLhyphen"/>liver up all Bills, Bonds and Specialties, and vacate all Judgments, and other Securities they have for any Debts from him to them now due, and theſe preſents ſhall be a good releaſe and diſcharge to him from the ſame.</p>
+               <p>That if at any time within ſeven years to come, any Perſon ſhall lawfully prove he hath or doth conceal or ſhall not diſcover his whole Eſtate within the value of 1000 <hi>l.</hi> over and above the ſaid Summ of 5000 <hi>l.</hi> for him<g ref="char:EOLhyphen"/>ſelf reſerved, and his Houſhold Goods and wearing Appa<g ref="char:EOLhyphen"/>rel as aforeſaid, Then he will be liable to pay the remain<g ref="char:EOLhyphen"/>der of his whole principal Debt to each Creditor.</p>
+               <p>That this ſhall be no ſtop of any proceedings againſt the ſaid <hi>John Hinde,</hi> or any of his Eſtate to any Credi<g ref="char:EOLhyphen"/>tor
+<pb n="7" facs="tcp:102719:5"/>
+ſubſcribing, this Agreement, untill the diſcovery and delivery of the Eſtate as aforeſaid.</p>
+            </div>
+            <div type="part">
+               <head>The Heads of the ſecond Propoſal made by <hi>Hinde</hi> to pay his Creditors their whole Principal Debts were theſe, <hi>viz.</hi>
+               </head>
+               <p>THat he will pay each of his Creditors his full Prin<g ref="char:EOLhyphen"/>cipal Debt, in Goods, Wares, Houſes, Lands Tenements and Debts owing to him, In caſe the other fall ſhort in manner following.</p>
+               <p>The Creditors to chooſe as many, and ſuch of them<g ref="char:EOLhyphen"/>ſelves as they ſhall think fit for Truſtees, as well to ſettle this Agreement as alſo to have the Eſtate delivered, and aſſigned to; for getting in and diſpoſing of the ſame, and dividing the ſame amongſt themſelves, and the reſt of the Creditors for their ſatisfaction.</p>
+               <p>And, that within a week after all have ſubſcribed, he will deliver in the Goods and Wares, and an Accompt of the Houſes, Lands and Tenements which the Creditors ſhall accept of at the price they coſt him. Which price ſhall be aſcertained by good proof of the Perſons the ſame were bought of, or for default thereof by his own Oath, which ſhall be definitive.</p>
+               <p>That what the Lands, Tenements and Goods ſhall fall ſhort of paying his whole Principal Debts, he ſhall make up by Juſt Debts owing him, a Catalogue whereof he will deliver to the Truſtees, within a week after all the Creditors have ſubſcribed, and ſhall make proof of each ſuch
+<pb n="8" facs="tcp:102719:6"/>
+Debt being due to him, ſufficient to prove the ſame at Law if need require.</p>
+               <p>That each Creditor forthwith after his ſubſcription, if he have no ſpecialty to aſcertain his Debt, make up his Accompt, and ſettle the ſame with <hi>Hinde,</hi> That he may be able to deliver in ſufficient for their ſatisfaction.</p>
+               <p>That <hi>Hinde</hi> his Heirs, Executors and Adminiſtrators, from time to time hereafter, make ſuch Deeds, Aſſign<g ref="char:EOLhyphen"/>ments, Conveyances and Letters of Attorney to the Tru<g ref="char:EOLhyphen"/>ſtees to ſettle the Eſtate upon them, and enable them to get in the ſame as they at their charge ſhall require.</p>
+               <p>But no further warranty to be contained in them, than onely againſt himſelf, and all clayming under him.</p>
+               <p>That <hi>Hinde</hi> be put to no charge in ſetling or getting in the Eſtate, but be ſaved harmleſs from all Charges of Suits and Non-ſuits in Law or Equity.</p>
+               <p>That upon <hi>Hinde</hi>'s delivering up the Goods and Deeds of his Eſtate, all the Creditors to ſeal Releaſes to him and his Partner of all Actions to the day before the date of the Inſtrument. And the Inſtrument to be a good Releaſe to him and his Partner of all matters to that day.</p>
+               <p>That this Inſtrument be no hindrance or bar to any of the Creditors, from proceeding at Law againſt him till he have delivered up his Goods and Deeds, and a Cata<g ref="char:EOLhyphen"/>logue of his Debts as aforeſaid.</p>
+               <p>That if ſome few of the Creditors ſtand out, yet if the Subſcribers will defend him from the reſt he will perform this Agreement, and deliver enough for all as above, aſwell the Diſſenters as the Subſcribers.</p>
+               <p>
+                  <pb n="9" facs="tcp:102719:6"/>The Major part of the Creditors adhering to the firſt Propoſition, <hi>Hinde</hi> applyed himſelf to that and therein condeſcended further, That the 5000 <hi>l.</hi> ſhould be redu<g ref="char:EOLhyphen"/>ced to 2000 <hi>l.</hi> and 'tother 3000 <hi>l.</hi> to be allowed him by 12 pence. in the Pound out of the Eſtate, as it ſhould come in for his pains and ſervice in getting in the Eſtate, And deli<g ref="char:EOLhyphen"/>vered ſeveral Copies of this Inſtrument to ſeveral of the Creditors, and the onely thing remaining that they ob<g ref="char:EOLhyphen"/>ject to it is, that the 2000 <hi>l.</hi> ſhould be diſcovered to them in what that conſiſts, which they propoſe to avoid fraud. That under Colour of ſecuring 2000 <hi>l.</hi> there be not more concealed, which as it ſeems fair on their parts, ſo it lies hard on <hi>Hinde</hi>'s part, for when diſcovered, a Commiſſi<g ref="char:EOLhyphen"/>on of Bankrupts which they are now violently proſecu<g ref="char:EOLhyphen"/>ting againſt him, may lay hold of it. Yet to remove all objections on his part, he hereby declares be will ſubmit to that alſo.</p>
+               <p>But he muſt crave leave of his Creditors to undeceive them, and the World, and ſhew them that the Agents or Adviſers of thoſe few Creditors who oppoſe this Agree<g ref="char:EOLhyphen"/>ment, and inſiſt on the Inſtrument of their own drawing, have put them upon unreaſonable Demands. And be<g ref="char:EOLhyphen"/>cauſe he believes the greateſt part of his moſt worthy Creditors know it not, and even thoſe worthy Gen<g ref="char:EOLhyphen"/>tlemen who ordered the Agreement to be drawn up, did not intend it for a Snare to him. But ordered an Inſtru<g ref="char:EOLhyphen"/>ment to be drawn up, that might have anſwered all their ends; to wit, the ſecuring the Eſtate to the Creditor's uſe, and <hi>Hinde</hi>'s Liberty upon performance of it. He there<g ref="char:EOLhyphen"/>fore here ſubjoins the Heads of the Inſtrument, by Or<g ref="char:EOLhyphen"/>der of ſome of the Creditors preſented to him upon his making the Propoſals aforeſaid.</p>
+            </div>
+            <div type="part">
+               <pb n="10" facs="tcp:102719:7"/>
+               <head>Which are theſe, <hi>viz.</hi>
+               </head>
+               <p>THat a Letter of Licence be prepared, and forthwith ſigned by the Creditors, and delivered to <hi>Hinde</hi> and his Partner <hi>Toplady,</hi> and thereupon they to diſcover and deliver up all their Eſtate.</p>
+               <p>That they ſhall convey their Eſtates to the Truſtees of the Creditors, as they ſhall be deſired, and ſhall do all ſuch Acts, and be aſſiſting in getting in the Eſtate as the Tru<g ref="char:EOLhyphen"/>ſtees ſhall deſire.</p>
+               <p>That for the plainer and ſuller diſcovery of their Eſtates, they ſhall anſwer one or more ſuch Bill or Bills in Chance<g ref="char:EOLhyphen"/>ry, as the Creditors or ſome one of them ſhall for that pur<g ref="char:EOLhyphen"/>poſe exhibit, and that within three weeks after the Bill exhi<g ref="char:EOLhyphen"/>bited.</p>
+               <p>That out of ſuch Eſtate ſo to be diſcovered, each of the Creditors ſhall or may have 16 <hi>s.</hi> in the Pound or more, and not leſs for their Debt.</p>
+               <p>That for the ſpeedier getting in the Eſtate, a Commiſſion of Bankrupts be taken out, and when 2 <hi>s.</hi> in the Pound a<g ref="char:EOLhyphen"/>bove all charges be gotten in, It be divided amongſt the Creditors.</p>
+               <p>That <hi>Hinde</hi> in conſideration of diſcovery of the Eſtate, and being aſſiſting as before ſhall keep his Houſhold-Goods, and his own and Wiſes wearing Apparel, not excee<g ref="char:EOLhyphen"/>ding 200 <hi>l.</hi> and ſhall and may receive 5000 <hi>l.</hi> as follow<g ref="char:EOLhyphen"/>eth, <hi>(viz.)</hi> when any Dividend ſhall be made amongſt
+<pb n="11" facs="tcp:102719:7"/>
+the Creditors, for every <gap reason="blank" extent="1 word">
+                     <desc> _____ </desc>
+                  </gap> in the Pound divided to the Creditors <gap reason="blank" extent="1 word">
+                     <desc> _____ </desc>
+                  </gap> to <hi>Hinde</hi> till the 5000 <hi>l.</hi> be paid.</p>
+               <p>And the Creditor's Covenant, that in Caſe <hi>Hinde</hi> make a true Diſcovery, or do not leave undiſcovered the value of 1000 <hi>l.</hi> and convey all his Eſtate as before, and ſo much of this 1000 <hi>l.</hi> as he ſhall from time to time diſcover; then the Creditors will not ſue <hi>Hinde</hi> and <hi>Toplady</hi> for their Debts for 99 years.</p>
+               <p>Provided, that if <hi>Hinde</hi> and <hi>Toplady</hi> do not make a true Diſcovery, and aſſign the Eſtate as before all the Co<g ref="char:EOLhyphen"/>venants for the benefit of <hi>Hinde</hi> and <hi>Toplady,</hi> therein con<g ref="char:EOLhyphen"/>tained ſhall be void.</p>
+               <p>Provided alſo, That this Deed ſhall not bind any of the Creditors, unleſs all the Creditors ſhall ſign this Deed by a Day, to be named then next enſuing.</p>
+               <p>Upon this Inſtrument <hi>Hinde</hi> adviſeth with Councel, who inform him the Import and Conſequences thereof to be thus conſidered.</p>
+               <p>That when this Inſtrument was drawn, <hi>Hinde</hi> was a Priſoner in the <hi>Fleet,</hi> upon the Extent of 10000 <hi>l.</hi> above mentioned, and all his Houſhold-Goods ſeized on, to the value of 3 or 4 Hundred Pounds, when there was but 420 <hi>l.</hi> due upon that Extent.</p>
+               <p>In the Inſtrument the Propoſition is, <hi>Hinde</hi> may keep his Houſhold-Goods, and yet they ſeized on, and no Pro<g ref="char:EOLhyphen"/>viſion made to reſtore them to him.</p>
+               <p>That a Letter of Licence ſhould be forthwith ſigned by his Creditors, but for no time limited, he a Priſoner in
+<pb n="12" facs="tcp:102719:8"/>
+Execution upon the Extent and no proviſion to Diſcharge him, and the time the Letter of Licence from the Creditors was by them propoſed to be but for ſo long as he could take an account of his Eſtate, and diſcover, deliver and aſ<g ref="char:EOLhyphen"/>ſign it to the Creditors.</p>
+               <p>Whence it follows if he were at preſent diſcharged of his Impriſonment, aſſoon as that time were elapſed the Credi<g ref="char:EOLhyphen"/>tors were at liberty to ſue him, and he muſt deliver all up<g ref="char:EOLhyphen"/>on Oath and not have two pence allowed him to maintain himſelf and Family, which is a Wife and five Children, till the Creditors have ſettled the Eſtate and made a Dividend.</p>
+               <p>And if this be reaſonable for every honeſt Man to doe, then let the Reward be conſidered which follows in the In<g ref="char:EOLhyphen"/>ſtrument: <hi>Viz.</hi> That the Eſtate ſhall make 16<hi>s.</hi> in the pound to each Creditor, or more and not leſs, over and above all charges and expences in recovering, getting in, ſettling and dividing the Eſtate amongſt them, and this to be done by a Commiſſion of Bankrupt. Now what this will amount unto is eaſily judged. An Eſtate to be managed by a Mul<g ref="char:EOLhyphen"/>titude, a Commiſſion of Bankrupt to have the haraſſing of it, each particular Creditors Attorney or Sollicitor to be gratified, or the Eſtate to be torn in pieces by private Quar<g ref="char:EOLhyphen"/>rels and Diſſenſions: As many Bills in Chancery to be an<g ref="char:EOLhyphen"/>ſwered as any of them for their own private gain ſhall adviſe to be brought: An hundred and fifty Creditors to be brought to be of one mind in each particular, or till they all agree who ſhall be Managers, and how far ſuch Mana<g ref="char:EOLhyphen"/>gers ſhall bind each Man's particular Intereſt; or if no A<g ref="char:EOLhyphen"/>greement, as in ſuch caſes that is not ſuddenly done: Till then <hi>Hinde</hi> to have no Allowance. But the Eſtate by de<g ref="char:EOLhyphen"/>lays decays and is loſt, and by Law-ſuits is waſted; and yet if <hi>Hinde,</hi> when all help and power is out of his hands cannot make them agree, who already are divided into ſe<g ref="char:EOLhyphen"/>veral
+<pb n="13" facs="tcp:102719:8"/>
+Parties, and are quarrelling who ſhall have the divi<g ref="char:EOLhyphen"/>ding of the Bears Skin, and the Eſtate waſted very probably above half the value by delay and unneceſſary Charges of the Commiſſion and other Expences, and pay them 16 <hi>s.</hi> in the pound he muſt periſh. And if all this were poſſible for <hi>Hinde</hi> to perform, which cannot be done if the Eſtate really and truly would now make out 30 <hi>s.</hi> in the pound for each Creditors Debt. Then they covenant not to ſue him for 99 years, which is ſo great a kindneſs, that when almoſt double his Debts are paid to them, and ſpent by them, they will forbear to trouble him but not diſcharge him.</p>
+               <p>Nor is this the Caſe by the ill conſequence that may happen only, but expreſly by the laſt <hi>Proviſoe</hi> all the ſup<g ref="char:EOLhyphen"/>poſed benefit to <hi>Hinde</hi> propoſed in the former part of the Deed in this latter Clauſe is totally deſtroyed. For all the Creditors may ſign him a Letter of Licence as is propoſed in the beginning of the Inſtrument, to encourage him to diſcover and aſſign his Eſtate; but when that is done if e<g ref="char:EOLhyphen"/>very individual Creditor do not ſign this Inſtrument, this ſhall not bind any of the Creditors ſubſcribing, ſo he is left to lie in a Gaol and his Family to ſtarve.</p>
+               <p>Now for the Information of all the Creditors who may miſtake his honeſt Intentions, and be miſled by the Paſſion of ſome angry Men, and to convince all Men of their true Intereſt in this Affair, that the Eſtate may not be ſpent in Law-Suits, and be deſtroyed by the charge of proſecuting Commiſſions He gives the World the trouble of this Paper, and hereby aſſures them, That to this good end he is ready to comply with his Creditors in either of theſe ways, or ſuch other way as the major part of his Creditors ſhall reaſonably de<g ref="char:EOLhyphen"/>ſire, ſo they will but grant him his Liberty and the
+<pb n="14" facs="tcp:102719:9"/>
+meaneſt ſupport for his Livelyhood that hath been pro<g ref="char:EOLhyphen"/>poſed to him; and hereby moſt ſolemnly proteſt, That he is ſtill ready to perform his part of the Agreements by him propoſed to his Creditors, and ſo he will e<g ref="char:EOLhyphen"/>ver be ready to comply with them to the utmoſt of his ability.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:102719:9"/>
+         </div>
+      </body>
+   </text>
+</TEI>
